@@ -1,0 +1,11 @@
+{
+  "name": "assignment-code",
+  "version": "1.0.0",
+  "main": "arrayManipulation.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dickson Daniel Peprah",
+  "description": "A file for my DCIT 202 assignment"
+}
